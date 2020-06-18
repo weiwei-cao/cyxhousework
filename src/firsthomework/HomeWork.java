@@ -1,4 +1,4 @@
-package day03;
+package firsthomework;
 
 public class HomeWork {
     //1.打印等腰三角形

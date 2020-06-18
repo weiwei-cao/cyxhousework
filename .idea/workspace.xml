@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="717e403f-5ca4-4aed-ba37-9e02c640354f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cyxhomework/day03/HomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cyxhomework/day03/HomeWork.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day03/HomeWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="191">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -51,10 +51,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="467" />
-    <option name="y" value="42" />
+    <option name="x" value="242" />
+    <option name="y" value="78" />
     <option name="width" value="1450" />
-    <option name="height" value="1010" />
+    <option name="height" value="898" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,7 +124,7 @@
       <module name="cyxhomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="firsthomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.HomeWork" />
+      <option name="MAIN_CLASS_NAME" value="firsthomework.HomeWork" />
       <module name="cyxhomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="firsthomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,7 +150,7 @@
       <module name="cyxhomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="firsthomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,7 +179,7 @@
       <workItem from="1592354026928" duration="2948000" />
       <workItem from="1592357181176" duration="7246000" />
       <workItem from="1592369323744" duration="130000" />
-      <workItem from="1592380334382" duration="1593000" />
+      <workItem from="1592380334382" duration="2175000" />
     </task>
     <task id="LOCAL-00001" summary="曹永霞作业第一次项目结构上传">
       <created>1592354820866</created>
@@ -202,14 +202,22 @@
       <option name="project" value="LOCAL" />
       <updated>1592364406836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="曹永霞下午改题后作业最终版项目结构上传">
+      <created>1592381977787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592381977787</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11917000" />
+    <option name="totallyTimeSpent" value="12499000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="374" y="34" width="1160" height="808" extended-state="0" />
+    <frame x="343" y="59" width="1160" height="717" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21143375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -220,7 +228,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7259259" visible="true" weight="0.21625766" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7259259" weight="0.2513369" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995885" weight="0.35909823" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -248,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="曹永霞作业第一次项目结构上传" />
     <MESSAGE value="曹永霞作业最终版项目结构上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="曹永霞作业最终版项目结构上传" />
+    <MESSAGE value="曹永霞下午改题后作业最终版项目结构上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="曹永霞下午改题后作业最终版项目结构上传" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/PrintStream.java">
@@ -262,8 +271,8 @@
     <entry file="file://$PROJECT_DIR$/src/day03/Demo04.java" />
     <entry file="file://$PROJECT_DIR$/src/day03/HomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="191">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
